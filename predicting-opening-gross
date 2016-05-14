@@ -1,0 +1,39 @@
+This will be a half-year project for me as I learn and apply data analytics to my passion of film.
+
+
+Predicting opening weekend gross is important because:
+1) it demonstrates the commercial viability of the film
+2) setting expectations for investors, producers, and other stakeholders
+3) records- people love to break records, the media and pundits (and people like myself) eat this up
+
+Today, the opening weekend gross for most movies is not accurately predictable. The notable exceptions are any Disney/Pixar/Marvel moves, and any franchise movies (i.e., Mission Impossible, Bourne, etc).
+
+My hunch is that there is a way to use machine learning to predict opening weekend gross.
+
+I know that we could use regressions based on what I learned in college. We need to find a series of variables, controls, and set up a the test. That is where I will start with. The approach:
+  1. Find a reliable source for historical film data
+  2. Find the most comprehensive set of variables to use based on that data
+  3. Clean up the data in a csv file
+  4. Use python/pandas to interpret the data. Sources:
+    http://stackoverflow.com/questions/19991445/run-an-ols-regression-with-pandas-data-frame
+    http://stackoverflow.com/questions/11479064/multivariate-linear-regression-in-python?lq=1
+    https://github.com/justmarkham/DAT4/blob/master/notebooks/08_linear_regression.ipynb
+  5. Find the 5 strongest predictors of gross 
+    Current hunches: star power, director, time of release, sequel, cost to make including marketing
+  6. Use these predictors to make recommendation for how to create the largest box office opening gross ever
+  7. Predict the gross of upcoming movies based on the results
+
+Given everything else on my plate, I'm expecting this process to take until the end of summer 2016.
+
+After this, it's time to make this thing visually appealling. By this point, I've hopefully learned to use some data viz tools/techniques and can apply it to this. Sources:
+  http://stats.stackexchange.com/questions/89747/how-to-describe-or-visualize-a-multiple-linear-regression-model
+  http://stats.stackexchange.com/questions/73320/how-to-visualize-a-fitted-multiple-regression-model?rq=1
+  
+I'm guessing end of fall is a good/realistic timeline for completing this portion of the project.
+
+Finally in the winter, I will be publishing and cleaning up. 
+
+
+  
+    
+  
