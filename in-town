@@ -1,0 +1,10 @@
+I've always wanted to know which celebrity or premiere was happening in my city or a nearby city, but I barf at the idea of having to read about it on People or E! or TMZ. 
+
+I want to develop a program that, using social media APIs (e.g., Twitter) be able to do text mining to provide the user with the latest info on a celebrity's whereabouts or a special event like a premiere.
+
+For example, I could enter a list of people that I want to see. 
+I input  celebs: Scarlett Johansson, Alicia Vikander, Mark Ruffalo, Brad Pitt, Wes Anderson, Joel Coen, Ethan Coen, Steven Spielberg, Anthony Stanton
+I input locations: Washington D.C., New York, Philadelphia
+
+Result would give me a list of all tweets/ posts/ pics referring to the locations sent by those celebs on their social media accounts, or mentions including those celebs and locations.
+
